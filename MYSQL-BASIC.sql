@@ -1,7 +1,7 @@
 use Jugos;
 
 -- CREACION DE UNA TABLA EN UNA BASE DE DATOS
-create table TBClientes3(
+create table TBClientes(
 DNI varchar(20),
 NOMBRE varchar(150),
 DIRECCION1 varchar(150),
